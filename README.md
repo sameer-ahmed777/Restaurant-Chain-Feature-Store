@@ -160,7 +160,7 @@ and run all cells.
 
 **Sameer Ahmed**
 
-Student | Python Developer | Data Analytics Enthusiast
+Data Science Student | Python Developer | Data Analytics Enthusiast
 
 ---
 
